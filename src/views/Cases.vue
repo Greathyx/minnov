@@ -223,6 +223,11 @@
                             team from Minnovation. The consultant acted as client’s HR responsible person, working
                             closely with the client in addressing its talent needs.
                         </p>
+                    </v-col>
+
+                    <v-col sm="12" md="6">
+                        <v-img src="../assets/cases/case2.png"></v-img>
+                        <br>
                         <h3>A well operating HR system has been established</h3>
                         <p style="text-align: justify">
                             A well operating human resource management system is a platform that automates most
@@ -235,11 +240,6 @@
                             the newly established branch. Running with observations and optimizing every details is
                             essential for customer satisfactions.
                         </p>
-                    </v-col>
-
-                    <v-col sm="12" md="6">
-                        <v-img src="../assets/cases/case2.png"></v-img>
-                        <br>
                         <h3>Outsource Solutions</h3>
                         <p style="text-align: justify">
                             With our excellent references, the client outsources many of its operations to us including
@@ -261,8 +261,8 @@
                 </v-row>
                 <v-row style="margin-top: 20px">
                     <v-col sm="12" md="6">
-                        <v-img src="../assets/cases/case3.png"></v-img>
-                        <br>
+
+<!--                        <br>-->
                         <h3>Help transfer business smoothly in Sweden</h3>
                         <p style="text-align: justify">
                             A leading telecom company decided to close its office in Nordic countries. Establishing a
@@ -270,9 +270,6 @@
                             Nordic countries. Minnovation successfully helped the customer to make the settlement well
                             and safe.
                         </p>
-                    </v-col>
-
-                    <v-col sm="12" md="6">
                         <h3>The Unpredicted Challenge in Uncertain Times</h3>
                         <p style="text-align: justify">
                             The geopolitical situation in recent years impacts telecom industry tremendously.
@@ -286,6 +283,10 @@
                             challenges in dealing with unexpected problems. Managing both the current situation and
                             long-term risks were on the customer’s table.
                         </p>
+                        <v-img src="../assets/cases/case3.png"></v-img>
+                    </v-col>
+
+                    <v-col sm="12" md="6">
                         <h3>Minnovated Transformation</h3>
                         <p style="text-align: justify">
                             Well managed transformation needs a system approach and expertise in many areas. It requires

@@ -15,15 +15,15 @@
         <v-img src="../assets/background2.jpg" style="height: 70vh" aspect-ratio="0.5">
             <div style="display: flex; align-items: center; justify-content: center; margin-top: 60px; height: 50vh">
                 <v-row align="top" justify="center" style="max-width: 1000px">
-                <v-col cols="12" sm="4" align="center" justify="center">
+                <v-col cols="12" sm="6" align="center" justify="center">
                     <v-icon large color="rgba(0, 0, 0, 0.87)">mdi-email-outline</v-icon>
                     <p>info@minnov.se</p>
                 </v-col>
-                <v-col cols="12" sm="4" align="center" justify="center">
-                    <v-icon large color="rgba(0, 0, 0, 0.87)">mdi-phone-outline</v-icon>
-                    <p>info@minnov.se</p>
-                </v-col>
-                <v-col cols="12" sm="4" align="center" justify="center">
+<!--                <v-col cols="12" sm="4" align="center" justify="center">-->
+<!--                    <v-icon large color="rgba(0, 0, 0, 0.87)">mdi-phone-outline</v-icon>-->
+<!--                    <p>info@minnov.se</p>-->
+<!--                </v-col>-->
+                <v-col cols="12" sm="6" align="center" justify="center">
                     <v-icon large color="rgba(0, 0, 0, 0.87)">mdi-map-marker-outline</v-icon>
                     <p>Strandvägen 7A SE-11456 <br>Stockholm Sweden</p>
                 </v-col>

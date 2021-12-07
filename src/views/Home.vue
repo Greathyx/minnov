@@ -1,7 +1,7 @@
 <template>
     <v-main>
         <v-parallax dark
-                    src="../assets/parallax.jpg"
+                    src="../assets/bg2.jpg"
                     gradient="to top right, rgba(100,115,201,.33), rgba(25,32,72,.7)"
         >
             <v-overlay value="true" absolute opacity=0.2>
@@ -20,18 +20,18 @@
                             Make Your First Steps in <br>
                             Europe SAFE and EASY.
                         </h1>
-                        <h4 v-if="!isSmall" class="font-weight-medium headline"
-                            style="margin-top: 40px">
-                            <!--                            Minnovated ®-->
-                            Staffing | Payroll | HR | Campus Recruitment | International <br>
-                            Talent Development Advisory | Project Management.
-                        </h4>
-                        <h4 v-if="isSmall" class="font-weight-medium subtitle-2"
-                            style="margin-top: 40px">
-                            <!--                            Minnovated ®-->
-                            Staffing | Payroll | HR | Campus Recruitment | International <br>
-                            Talent Development Advisory | Project Management.
-                        </h4>
+<!--                        <h4 v-if="!isSmall" class="font-weight-medium headline"-->
+<!--                            style="margin-top: 40px">-->
+<!--                            &lt;!&ndash;                            Minnovated ®&ndash;&gt;-->
+<!--                            Staffing | Payroll | HR | Campus Recruitment | International <br>-->
+<!--                            Talent Development Advisory | Project Management.-->
+<!--                        </h4>-->
+<!--                        <h4 v-if="isSmall" class="font-weight-medium subtitle-2"-->
+<!--                            style="margin-top: 40px">-->
+<!--                            &lt;!&ndash;                            Minnovated ®&ndash;&gt;-->
+<!--                            Staffing | Payroll | HR | Campus Recruitment | International <br>-->
+<!--                            Talent Development Advisory | Project Management.-->
+<!--                        </h4>-->
                     </v-col>
                 </v-row>
             </v-overlay>
