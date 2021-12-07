@@ -230,17 +230,17 @@
                             employee engagement. HR related templates and processes might look simple, while they need
                             years of accumulated experiences and expertise in making them solid and efficient.
                         </p>
-                    </v-col>
-
-                    <v-col sm="12" md="6">
-                        <v-img src="../assets/cases/case2.png"></v-img>
-                        <br>
                         <p style="text-align: justify">
                             We helped the client to create whole set of processes in facilitating people management in
                             the newly established branch. Running with observations and optimizing every details is
                             essential for customer satisfactions.
                         </p>
-                        <h4>Outsource Solutions</h4>
+                    </v-col>
+
+                    <v-col sm="12" md="6">
+                        <v-img src="../assets/cases/case2.png"></v-img>
+                        <br>
+                        <h3>Outsource Solutions</h3>
                         <p style="text-align: justify">
                             With our excellent references, the client outsources many of its operations to us including
                             but not limited to recruitment, training and payroll services. They trust that HR operations
@@ -270,13 +270,13 @@
                             Nordic countries. Minnovation successfully helped the customer to make the settlement well
                             and safe.
                         </p>
+                    </v-col>
+
+                    <v-col sm="12" md="6">
                         <h3>The Unpredicted Challenge in Uncertain Times</h3>
                         <p style="text-align: justify">
                             The geopolitical situation in recent years impacts telecom industry tremendously.
                         </p>
-                    </v-col>
-
-                    <v-col sm="12" md="6">
                         <p style="text-align: justify">
                             Our client is one of the largest telecom vendors that operate globally. However, the climate
                             of uncertainty pushed the company to close its branch offices in Nordic countries.
