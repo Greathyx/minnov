@@ -40,9 +40,9 @@
         <v-row class="about-us">
             <v-col sm="12" md="6">
                 <h1 v-if="!isSmall" class="display-2 font-weight-medium h1-about-us"
-                    style="margin-bottom: 20px;">About Us</h1>
+                    style="margin-bottom: 20px;">About us</h1>
                 <h1 v-if="isSmall" class="display-1 font-weight-medium h1-about-us"
-                    style="margin-bottom: 20px;">About Us</h1>
+                    style="margin-bottom: 20px;">About us</h1>
                 <p style="text-align: justify" class="p1-about-us">
                     Headquartered in Stockholm, Sweden, we have extensive business operations in Nordic Countries
                     (Sweden, Norway, Denmark, Finland) and other European countries such as Germany, UK and the

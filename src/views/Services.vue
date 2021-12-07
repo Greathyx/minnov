@@ -61,67 +61,85 @@
             </div>
 
             <div style="display: flex; align-items: center; justify-content: center; margin-top: 50px">
-                <v-row align="top" justify="center" style="max-width: 1000px">
+                <v-row align="top" justify="center" style="max-width: 1000px; text-align: center" >
                     <v-col cols="12" md="3" sm="6">
                         <a class="a" @click.prevent="anchor('case1')">
-                            <v-card class="mx-auto case-card" height="320" width="260"
+                            <v-card class="mx-auto case-card" height="340" width="260"
                                     :elevation="elevation1"
                                     @mouseover="onHoverCard(1)" @mouseleave="onLeaveCard(1)"
                             >
+                                <v-card-text class="text-h6" style="color: rgba(0, 0, 0, 0.87)">
+                                    Case 1
+                                </v-card-text>
                                 <v-img
                                     src="../assets/cases/case1-small.png"
                                     height="200px" contain
+                                    style="margin: 0 10px"
                                 ></v-img>
-                                <v-card-title>Successful Case 1</v-card-title>
-                                <v-card-subtitle>Partner of Operations, from 0 to 100%</v-card-subtitle>
+                                <v-card-subtitle style="color: rgba(0, 0, 0, 0.87)">
+                                    Partner of Operations, from 0 to 100%
+                                </v-card-subtitle>
                             </v-card>
                         </a>
                     </v-col>
 
                     <v-col cols="12" md="3" sm="6">
                         <a class="a" @click.prevent="anchor('case2')">
-                            <v-card class="mx-auto case-card" height="320" width="260"
+                            <v-card class="mx-auto case-card" height="340" width="260"
                                     :elevation="elevation2"
                                     @mouseover="onHoverCard(2)" @mouseleave="onLeaveCard(2)"
                             >
+                                <v-card-text class="text-h6" style="color: rgba(0, 0, 0, 0.87)">
+                                    Case 2
+                                </v-card-text>
                                 <v-img
                                     src="../assets/cases/case2-small.png"
                                     height="200px" contain
+                                    style="margin: 0 10px"
                                 ></v-img>
-                                <v-card-title>Successful Case 2</v-card-title>
-                                <v-card-subtitle>Strong in China, fly in Europe</v-card-subtitle>
+                                <v-card-subtitle style="color: rgba(0, 0, 0, 0.87)">
+                                    Customized solutions for Nordic fit
+                                </v-card-subtitle>
                             </v-card>
                         </a>
                     </v-col>
 
                     <v-col cols="12" md="3" sm="6">
                         <a class="a" @click.prevent="anchor('case3')">
-                            <v-card class="mx-auto case-card" height="320" width="260"
+                            <v-card class="mx-auto case-card" height="340" width="260"
                                     :elevation="elevation3"
                                     @mouseover="onHoverCard(3)" @mouseleave="onLeaveCard(3)"
                             >
+                                <v-card-text class="text-h6" style="color: rgba(0, 0, 0, 0.87)">
+                                    Case 3
+                                </v-card-text>
                                 <v-img
                                     src="../assets/cases/case3-small.png"
                                     height="200px" contain
+                                    style="margin: 0 10px"
                                 ></v-img>
-                                <v-card-title>Successful Case 3</v-card-title>
-                                <v-card-subtitle>Make it easy in difficult times</v-card-subtitle>
+                                <v-card-subtitle style="color: rgba(0, 0, 0, 0.87)">
+                                    Make it easy in difficult times
+                                </v-card-subtitle>
                             </v-card>
                         </a>
                     </v-col>
 
                     <v-col cols="12" md="3" sm="6">
                         <a class="a" @click.prevent="anchor('case4')">
-                            <v-card class="mx-auto case-card" height="320" width="260"
+                            <v-card class="mx-auto case-card" height="340" width="260"
                                     :elevation="elevation4"
                                     @mouseover="onHoverCard(4)" @mouseleave="onLeaveCard(4)"
                             >
+                                <v-card-text class="text-h6" style="color: rgba(0, 0, 0, 0.87)">
+                                    Case 4
+                                </v-card-text>
                                 <v-img
                                     src="../assets/cases/case4-small.png"
                                     height="200px" contain
+                                    style="margin: 0 10px"
                                 ></v-img>
-                                <v-card-title>Successful Case 4</v-card-title>
-                                <v-card-subtitle>
+                                <v-card-subtitle style="color: rgba(0, 0, 0, 0.87)">
                                     Mobilizing global resources in supporting business ambition
                                 </v-card-subtitle>
                             </v-card>
